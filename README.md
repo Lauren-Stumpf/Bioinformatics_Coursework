@@ -1,5 +1,5 @@
 # Bioinformatics Coursework (Baum-Welch and Supertree Algorithms)
-Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
+Submitted as part of the degree of Bsc Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
 ## Grade: 1st - 100/100, 1rd in year (of 116 students).
 ## Paper Introduction:
